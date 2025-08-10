@@ -21,9 +21,7 @@ Powered by **OpenCV**, **cvzone**, and **MediaPipe**, it blends nostalgia with f
 
 *(Replace below with actual screenshots or GIFs from `assets/`)*  
 
-| Snake in action 🐍 | Cupcake target 🧁 |
-|--------------------|-------------------|
-| ![Snake](assets/snake_demo.png) | ![Cupcake](assets/cupcake.png) |
+| Snake in action 🐍 | Cupcake target 🧁 
 
 ---
 
@@ -37,6 +35,4 @@ Powered by **OpenCV**, **cvzone**, and **MediaPipe**, it blends nostalgia with f
 - **Math & Random** – For movement calculation and food spawning.
 
 ---
-
-## 📂 Project Structure
 
