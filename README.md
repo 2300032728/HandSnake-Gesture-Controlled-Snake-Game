@@ -1,7 +1,7 @@
 # 🐍 HandSnake: Gesture-Controlled Snake Game 🎮🖐️
 
 HandSnake is a modern twist on the classic Snake game — but with no keyboard or joystick.  
-Instead, **you control the snake with your finger movements** using a webcam and real-time hand tracking.  
+Instead, **you control the snake with your finger movements**  using a webcam and real-time hand tracking.  
 Powered by **OpenCV**, **cvzone**, and **MediaPipe**, it blends nostalgia with futuristic interaction.
 
 ---
